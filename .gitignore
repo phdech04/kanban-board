@@ -1,0 +1,14 @@
+# Node modules
+frontend/node_modules/
+# Build output
+frontend/build/
+# VSCode settings
+.vscode/
+# Dotnet build output
+backend/bin/
+backend/obj/
+# OS files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
